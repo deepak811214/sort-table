@@ -1,0 +1,13 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.row {
+  display: flex;
+  border: 1px solid;
+  justify-content: space-between;
+}
+
+.column {
+  border: 1px solid;
+}
